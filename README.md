@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Maria Fernanda Gabrich
+Sou uma estudante de Sistemas de Informação na PUC Minas, tenho conhecimentos básicos em C# no backend e HTML, CSS, Bootstrap no frontend. Atualmente estou aprendendo JavaScript. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
