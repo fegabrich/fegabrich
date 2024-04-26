@@ -1,4 +1,4 @@
-## Olá! Eu sou a Maria Fernanda Gabrich
+## Olá! Eu sou Maria Fernanda Gabrich
 Sou uma estudante de Sistemas de Informação na PUC Minas, tenho conhecimentos básicos em C# no backend e HTML, CSS, Bootstrap no frontend. Atualmente estou aprendendo JavaScript. 
 
 <div style="display: inline_block"><br>
